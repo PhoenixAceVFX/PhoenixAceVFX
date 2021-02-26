@@ -10,9 +10,9 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)  
 [![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixAceVFX&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phoenix&theme=chartreuse-dark&)](https://github.com/anuraghazra/github-readme-stats)
 
