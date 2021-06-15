@@ -1,6 +1,6 @@
 <div align='center'>
   
-[![Website](https://img.shields.io/website?down_color=Black&down_message=Offline&label=The%20Black%20Arms&style=for-the-badge&up_color=Lime&up_message=Online&url=http%3A%2F%2Ftrigon.systems%2F)](https://trigon.systems)
+[![Website](https://img.shields.io/website?down_color=Black&down_message=Online&label=Trigon%20Systems%20&style=for-the-badge&up_color=Lime&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
 [![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)
 [![](https://discord-md-badge.vercel.app/api/shield/461440763042201620)](https://discord.gg/vvGSnNhsYV)  
