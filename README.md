@@ -2,7 +2,8 @@
   
 [![Website](https://img.shields.io/website?down_color=Black&down_message=Offline&label=The%20Black%20Arms&style=for-the-badge&up_color=Lime&up_message=Online&url=http%3A%2F%2Ftrigon.systems%2F)](http://trigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
-[![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)  
+[![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)
+![](https://discord-md-badge.vercel.app/api/shield/461440763042201620)  
 [![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://discord.gg/pcfjyQ6z6z)
 [![VTuber Discord](https://img.shields.io/discord/797447807917096960?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Trigon)](https://discord.gg/4t5nNSW8yU)
 [![SDX Support Discord](https://img.shields.io/discord/745011216526737438?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Support%20Server)](https://discord.gg/A9dca3N)
