@@ -5,8 +5,8 @@
 [![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)
 [![](https://discord-md-badge.vercel.app/api/shield/461440763042201620)](https://discord.gg/vvGSnNhsYV)  
 [![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://discord.gg/pcfjyQ6z6z)
-[![VTuber Discord](https://img.shields.io/discord/797447807917096960?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Trigon)](https://discord.gg/4t5nNSW8yU)
-[![SDX Support Discord](https://img.shields.io/discord/745011216526737438?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Support%20Server)](https://discord.gg/A9dca3N)
+[![VTuber Discord](https://img.shields.io/discord/797447807917096960?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Hazard)](https://discord.gg/4t5nNSW8yU)
+[![Trigon Systems Discord](https://img.shields.io/discord/834180569558024242?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Trigon%20Systems)](https://discord.gg/vvGSnNhsYV)
 [![Ministry Discord](https://img.shields.io/discord/657533624052219905?style=for-the-badge&logo=appveyor?color=%23000000&label=Ministry)](https://discord.gg/ministry)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Roblox-Scripts&theme=dark)](https://github.com/PhoenixAceVFX/Roblox-Scripts)
