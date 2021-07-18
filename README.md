@@ -9,6 +9,7 @@
 [![Trigon Systems Discord](https://img.shields.io/discord/834180569558024242?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Trigon%20Systems)](https://discord.gg/vvGSnNhsYV)
 [![Ministry Discord](https://img.shields.io/discord/657533624052219905?style=for-the-badge&logo=appveyor?color=%23000000&label=Ministry)](https://discord.gg/ministry)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Roblox-Scripts&theme=dark)](https://github.com/PhoenixAceVFX/Roblox-Scripts)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Recursive-Git-Pull-Script&theme=dark)](https://github.com/PhoenixAceVFX/Recursive-Git-Pull-Script)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Aroma-White&theme=dark)](https://github.com/PhoenixAceVFX/Aroma-White)
