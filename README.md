@@ -1,4 +1,6 @@
 <div align='center'>
+
+<a target="_blank" rel="noopener noreferrer" href="https://discord.c99.nl/widget/theme-3/461440763042201620.png"><img alt="uwu" src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" style="max-width: 100%;"></a>  
   
 [![Website](https://img.shields.io/website?down_color=Black&down_message=Online&label=Trigon%20Systems%20&style=for-the-badge&up_color=Lime&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
