@@ -1,6 +1,6 @@
 <div align='center'>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/461440763042201620)](https://discord.com/users/461440763042201620)[![Discord Presence](https://lanyard-profile-readme-nyria.vercel.app/api/461440763042201620)](https://discord.com/users/461440763042201620)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/461440763042201620)](https://discord.com/users/461440763042201620)
 
 <a target="_blank" rel="noopener noreferrer" href="https://discord.c99.nl/widget/theme-3/461440763042201620.png"><img alt="uwu" src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" style="max-width: 100%;"></a>  
 
