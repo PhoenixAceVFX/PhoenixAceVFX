@@ -1,15 +1,11 @@
 <div align='center'>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/461440763042201620)](https://discord.com/users/461440763042201620)  
 <a href="https://www.exophase.com/user/PhoenixAceVFX/"><img src="https://card.exophase.com/2/0/50197.png?1637519935"></a>  
-<a target="_blank" rel="noopener noreferrer" href="https://discord.c99.nl/widget/theme-3/461440763042201620.png"><img alt="uwu" src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/461440763042201620.png" style="max-width: 100%;"></a>  
 
 [![Website](https://img.shields.io/website?down_color=Black&down_message=Online&label=Trigon%20Systems%20&style=for-the-badge&up_color=Lime&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
-[![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)
-[![](https://discord-md-badge.vercel.app/api/shield/461440763042201620)](https://discord.gg/vvGSnNhsYV)  
-[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Femboy%20Gang)](https://discord.gg/pcfjyQ6z6z)
-[![VTuber Discord](https://img.shields.io/discord/797447807917096960?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Hazard)](https://discord.gg/4t5nNSW8yU)
+[![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)  
+[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://discord.gg/pcfjyQ6z6z)
 [![Trigon Systems Discord](https://img.shields.io/discord/834180569558024242?style=for-the-badge&logo=appveyor?color=%23ff0000&label=Trigon%20Systems)](https://discord.gg/vvGSnNhsYV)
 [![Ministry Discord](https://img.shields.io/discord/657533624052219905?style=for-the-badge&logo=appveyor?color=%23000000&label=Ministry)](https://discord.gg/ministry)  
 
