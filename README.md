@@ -1,12 +1,12 @@
 <div align='center'>
-[![Website](https://img.shields.io/website?down_color=Black&down_message=Online&label=Trigon%20Systems%20&style=for-the-badge&up_color=Lime&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
-[![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
-[![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)  
-[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://go.trigon.systems/Discord)
-[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20ThunderDome)](https://go.trigon.systems/ThunderDome)
-[![Ministry Discord](https://img.shields.io/discord/657533624052219905?style=for-the-badge&logo=appveyor?color=%23000000&label=Ministry)](https://discord.gg/ministry)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Discord Presence](https://lanyard-profile-readme-nyria.vercel.app/api/809248097175339099)](https://discord.com/users/809248097175339099)    
+![Website](https://img.shields.io/website?down_color=%23000000&down_message=Offline&label=Trigon.Systems&style=for-the-badge&up_color=%23ef56e6&up_message=Online&url=https%3A%2F%2Ftrigon.systems)
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
+[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://go.trigon.systems/Discord)
+[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20ThunderDome)](https://go.trigon.systems/ThunderDome) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Phoenix-Vizan&theme=dark)](https://github.com/PhoenixAceVFX/Phoenix-Vizan)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Aroma-White&theme=dark)](https://github.com/PhoenixAceVFX/Aroma-White)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Roblox-Scripts&theme=dark)](https://github.com/PhoenixAceVFX/Roblox-Scripts)
@@ -14,8 +14,5 @@
   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phoenix&theme=chartreuse-dark&)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
