@@ -1,5 +1,4 @@
 <div align='center'>
-[![Discord Presence](https://lanyard-profile-readme-nyria.vercel.app/api/809248097175339099)](https://discord.com/users/809248097175339099)  
 [![Website](https://img.shields.io/website?down_color=Black&down_message=Online&label=Trigon%20Systems%20&style=for-the-badge&up_color=Lime&up_message=Online&url=https%3A%2F%2Ftrigon.systems)](https://trigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
 [![Twitch](https://img.shields.io/twitch/status/PhoenixAceVFX?label=PhoenixAceVFX%20Live&style=for-the-badge)](https://www.twitch.tv/PhoenixAceVFX)  
