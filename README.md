@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?down_color=%23000000&down_message=Offline&label=Trigon.Systems&style=for-the-badge&up_color=%23ef56e6&up_message=Online&url=https%3A%2F%2Ftrigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
-[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Black%20Arms)](https://go.trigon.systems/Discord) 
+[![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Alpines)](https://go.trigon.systems/Discord) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Phoenix-Vizan&theme=dark)](https://github.com/PhoenixAceVFX/Phoenix-Vizan)
