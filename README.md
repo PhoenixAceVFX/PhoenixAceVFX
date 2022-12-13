@@ -1,5 +1,8 @@
 <div align='center'>
 
+# Currently Inactive  
+I won't be developing anything for awhile  
+  
 ![Website](https://img.shields.io/website?down_color=%23000000&down_message=Offline&label=Trigon.Systems&style=for-the-badge&up_color=%23ef56e6&up_message=Online&url=https%3A%2F%2Ftrigon.systems)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
 [![Main Discord](https://img.shields.io/discord/832050220345982977?style=for-the-badge&logo=appveyor?color=%23ff0000&label=The%20Alpines)](https://go.trigon.systems/Discord) 
