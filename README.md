@@ -4,9 +4,6 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-pink?style=for-the-badge)](https://www.patreon.com/PhoenixAceVFX)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Phoenix-Vizan&theme=dark)](https://github.com/PhoenixAceVFX/Phoenix-Vizan)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=Aroma-White&theme=dark)](https://github.com/PhoenixAceVFX/Aroma-White)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PhoenixAceVFX&repo=IRIS-LMAOBOX&theme=dark)](https://github.com/PhoenixAceVFX/IRIS-LMAOBOX)
   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
