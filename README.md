@@ -10,6 +10,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixAceVFX&count_private=true&orgs=The-Black-Arms&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
+# REFACTORS  
+The Refactored projects are mostly just me practicing C# in my own way  
+Pull em if you want, It's just a thing for me  
 </div>
