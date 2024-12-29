@@ -1,12 +1,7 @@
 <div align='center'>
 
-<h2 align="left">Hi 👋! My name is PhoenixAceVFX and I'm a Hobbyist from Japan</h2>
-  
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+<h2 align="left">Hi 👋! My name is PhoenixAceVFX and I'm a Hobbyist from Japan</h2>  
+
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1htdw.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1htdf.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro)  
@@ -80,14 +75,17 @@
 ###
 
 <div align="left">
+  <a href="https://archlinux.org" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="35" alt="Arch Linux Logo"  />
+    </a>
   <a href="https://youtube.com/@PhoenixAceVFX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube Logo"  />
   </a>
   <a href="https://discord.com/users/1016895892055396484" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo"  />
   </a>
   <a href="https://patreon.com/PhoenixAceVFX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Patreon Logo"  />
   </a>
 </div>
 
