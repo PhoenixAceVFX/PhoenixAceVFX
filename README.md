@@ -18,4 +18,9 @@
 # REFACTORS  
 The Refactored projects are mostly just me practicing C# in my own way  
 Pull em if you want, It's just a thing for me  
+
+# CONTACT  
+You can email me from the 2 emails below  
+`runaxr@arch-linux.pro`
+`phoenixacevfx@arch-linux.pro`
 </div>
