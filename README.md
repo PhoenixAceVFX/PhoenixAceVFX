@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h2 align="left">Hi 👋! My name is PhoenixAceVFX and I'm a Hobbyist from Japan</h2>  
+<h2 align="left">Hey there! I'm RunaXR aka PhoenixAceVFX and I'm a Hobbyist from Japan</h2>  
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro)
