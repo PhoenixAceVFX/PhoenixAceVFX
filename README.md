@@ -9,8 +9,7 @@
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjn.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1pt55.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1htdw.svg)](https://status.arch-linux.pro)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjk.svg)](https://status.arch-linux.pro)  
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1htdw.svg)](https://status.arch-linux.pro)  
 ###
 
 <div align="center">
