@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h2 align="left">Hey there! I'm RunaXR aka PhoenixAceVFX and I'm a Hobbyist from Japan</h2>  
+<h2 align="left">Hey there! I'm Noire aka PhoenixAceVFX and I'm a Hobbyist from Japan</h2>  
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro)
@@ -103,7 +103,8 @@
 <img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />
 
 # CONTACT  
-You can email me from the 2 emails below  
+You can email me from the 3 emails below  
+`noire@arch-linux.pro`
 `runaxr@arch-linux.pro`
 `phoenixacevfx@arch-linux.pro`
 </div>
