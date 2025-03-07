@@ -101,7 +101,9 @@
 <br clear="both">
 
 ###
-<img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />  
+
+<img src="https://count.getloli.com/@PhoenixAceVFX?name=PhoenixAceVFX&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">  
 
 # CONTACT  
 You can email me from the 3 emails below  
