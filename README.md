@@ -1,13 +1,14 @@
 <div align="center">
 
 # Noire (PhoenixAceVFX)
-> Software Developer & Linux Enthusiast from Japan
+> Software Developer & Linux Enthusiast from Japan  
+> I prefer UWSM Hyprland and can convert configs to it
 
 ## Service Status
 
 | Service | Service | Service |
 |---------|---------|---------|
-| [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Ballpa.in](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro) | [![C0deRa.in](https://uptime.betterstack.com/status-badges/v3/monitor/1htdf.svg)](https://status.arch-linux.pro) |
+| [![Arch-Linux.Pro](https://uptime.betterstack.com/status-badges/v3/monitor/1psjj.svg)](https://status.arch-linux.pro) | [![Miku.Baby](https://uptime.betterstack.com/status-badges/v3/monitor/1psjl.svg)](https://status.arch-linux.pro) | [![C0deRa.in](https://uptime.betterstack.com/status-badges/v3/monitor/1htdf.svg)](https://status.arch-linux.pro) |
 | [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro) | [![Neverlos.ing](https://uptime.betterstack.com/status-badges/v3/monitor/1psjm.svg)](https://status.arch-linux.pro) | [![NewGenKillers.lol](https://uptime.betterstack.com/status-badges/v3/monitor/1pt55.svg)](https://status.arch-linux.pro) |
 | [![PaleRa1n.xyz](https://uptime.betterstack.com/status-badges/v3/monitor/1psjn.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) | [![Trigon.Systems](https://uptime.betterstack.com/status-badges/v3/monitor/1htdw.svg)](https://status.arch-linux.pro) |
 
