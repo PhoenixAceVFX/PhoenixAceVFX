@@ -1,6 +1,6 @@
 <div align="center">
 
-# Noire (PhoenixAceVFX)
+# Bubblegum (PhoenixAceVFX)
 > Software Developer & Linux Enthusiast from Japan  
 > I prefer UWSM Hyprland and can convert configs to it
 
