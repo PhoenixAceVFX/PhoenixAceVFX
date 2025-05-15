@@ -1,6 +1,6 @@
 <div align="center">
 
-# RunaXR (PhoenixAceVFX)
+# AromaXR (PhoenixAceVFX)
 > Software Developer & Linux Enthusiast from Japan  
 > I prefer UWSM Hyprland and can convert configs to it
 
@@ -99,6 +99,7 @@
 📧 Email:
 - noire@arch-linux.pro
 - runaxr@arch-linux.pro
+- aromaxr@arch-linux.pro
 - phoenixacevfx@arch-linux.pro
 
 <img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />
