@@ -1,6 +1,6 @@
 <div align="center">
 
-# AromaXR (PhoenixAceVFX)
+# Numeri (PhoenixAceVFX)
 > Software Developer & Linux Enthusiast from Japan  
 > UWSM Hyprland & KDE Plasma on Arch Linux
 
@@ -97,10 +97,7 @@
 
 ## Contact
 📧 Email:
-- noire@arch-linux.pro
-- runaxr@arch-linux.pro
-- aromaxr@arch-linux.pro
-- phoenixacevfx@arch-linux.pro
+- numeri@numeri.dev
 
 <img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />
 
